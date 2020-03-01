@@ -1,0 +1,2 @@
+# cuaca
+Widget cuaca
